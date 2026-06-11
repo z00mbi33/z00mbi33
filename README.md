@@ -52,6 +52,14 @@ Fullstack developer focused on backend APIs and web-based systems. Currently wor
 
 ---
 
+### Currently Exploring
+
+- 🤖 AI Integration — connecting AI services to existing systems
+- ⚙️ n8n Automation — workflow automation and business process improvement
+- 🐹 Go — expanding into systems programming
+
+---
+
 ### GitHub Stats
 
 <div align="center">
@@ -61,14 +69,6 @@ Fullstack developer focused on backend APIs and web-based systems. Currently wor
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=z00mbi33&custom_title=System%20Activity%20Matrix&bg_color=0D1117&color=ff00ff&line=ff00ff&point=ffffff&area=true&hide_border=true" width="100%" />
 
 </div>
-
----
-
-### Currently Exploring
-
-- 🤖 AI Integration — connecting AI services to existing systems
-- ⚙️ n8n Automation — workflow automation and business process improvement
-- 🐹 Go — expanding into systems programming
 
 ---
 
